@@ -1,0 +1,61 @@
+{
+    "name": "textCheckPositive",
+    "start": 1648035962797,
+    "stop": 1648035963547,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "8146db72-b1f2-4127-817f-cf969559d1cd",
+    "historyId": "932176fbf5dec9284618e703db9c591a",
+    "testCaseId": null,
+    "rerunOf": null,
+    "fullName": "ru.kkuzmichev.simpleappforespresso.EspressoTests.textCheckPositive",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.EspressoTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "textCheckPositive"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.EspressoTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(271)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "feature",
+            "value": "textCheckPositive"
+        }
+    ],
+    "links": [
+    ]
+}
